@@ -19,7 +19,7 @@ CTRL-Z is the simplest form of version control.
 **Some documents have more advanced version control built-in:**
 - Microsoft Word has a "Track Changes" feature.
 - Google Docs automatically tracks file changes over.
-- You can see the edit history of all Wikipedia articles.
+- You can see the edit history of all Wikipedia articles.  
 [(Here's the history of the version control article.)](https://en.wikipedia.org/w/index.php?title=Version_control&action=history)
 
 ## More Than Just Undo
@@ -85,19 +85,18 @@ Solo or team, version control is your secret weapon for efficient and stress-fre
 - **Branch** - A lightweight movable pointer to a set of commits.
 - **HEAD** - The HEAD pointer is a reference to the most recent commit in your branch.
 - **Working Directory** - The current state of your repo's files on disk.
-- **DAG** - Directed Acyclic Graph. A graph were the edges are arrows (directed) and no matter which arrow you follow you can never travel in a circle (acyclic).
-
-Example of a DAG:
-![Dag](https://ericsink.com/scm/1761_image001.jpg)
+- **DAG** - Directed Acyclic Graph. A graph were the edges are arrows (directed) and no matter which arrow you follow you can never travel in a circle (acyclic).  
+Example of a DAG:  
+![Dag](https://ericsink.com/scm/1761_image001.jpg)  
 Image Source:: [https://ericsink.com/entries/dvcs_dag_1.html](https://ericsink.com/entries/dvcs_dag_1.html)
 
 
 # Team Members
 
 ## Steven
-![StevenPhoto](https://avatars.githubusercontent.com/u/144483744?v=4)
 
-This is a short paragraph biography of Steven.
+![StevenPhoto](https://avatars.githubusercontent.com/u/144483744?v=4)  
+This is a short paragraph biography of Steven.  
 
 ## Olivier
 

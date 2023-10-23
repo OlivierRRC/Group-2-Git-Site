@@ -14,4 +14,5 @@ As you edit files, Git sees them as modified, because you’ve changed them sinc
 
 ![GitLifeCycle](https://git-scm.com/book/en/v2/images/lifecycle.png)
 
-Text and Image Source: [https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
+Text and Image Source:  
+[https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
