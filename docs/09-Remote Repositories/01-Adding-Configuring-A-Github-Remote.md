@@ -1,5 +1,5 @@
 ---
-title: Centralized Workflow
+title: Adding/Configuring a Github Remote
 layout: default
 parent: Remote Repositories
 nav_ order: 1
