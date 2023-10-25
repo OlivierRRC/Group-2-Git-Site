@@ -9,8 +9,11 @@ nav_order: 2
 
 Let's start by making a folder to play in:
 
-`mkdir my-first-git`
-`cd my-first-git`
+```
+mkdir my-first-git
+
+cd my-first-git
+```
 
 To bring a new project **under control** we must first initialize the repository (the repo) from within the project's root folder:
 
