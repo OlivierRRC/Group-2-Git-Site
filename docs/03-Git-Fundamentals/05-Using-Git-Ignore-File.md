@@ -5,6 +5,14 @@ layout: default
 nav_order: 5
 ---
 
+Sometimes you may not want certain files in a repo, luckily git has a feature for that
+
+## Table of Contents
+{: .no_toc}
+
+1. TOC
+{:toc}
+
 # Not Every File Should Be Included
 
 Sometimes there are files you don't want to include in your repo:
@@ -14,9 +22,9 @@ Sometimes there are files you don't want to include in your repo:
 - Build files and folders.
 - Hidden OS files like `.DS_Store` (Mac) or `Thumbs.db` (Windows) files.
 
-# Git Ignore File
+## Git Ignore File
 
-Exclude files and folders by create a .gitignore file in the project root:
+Exclude files and folders by creating a .gitignore file in the project root:
 
 ```
 # Ignore specific files. (Note that comments start with: #)

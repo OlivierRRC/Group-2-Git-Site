@@ -5,13 +5,17 @@ layout: default
 nav_order: 3
 ---
 
-### Staging Files Before we Commit
-
 As we make changes to our code we **commit** the changes to our git repo.
 
 Before we can **commit** we must **add** new or changed files to a staging area.
 
-## Let's stage our new `readme.md` file:
+## Table of Contents
+{: .no_toc}
+
+1. TOC
+{:toc}
+
+# Let's stage our new `readme.md` file:
 
 `git add readme.md`
 
@@ -23,7 +27,7 @@ Wildcards and sub-folders work too:
 
 `git add docs/textfiles/*.txt`
 
-### Committing Staged Files
+# Committing Staged Files
 
 We **commit** our staged changes with a commit message:
 
@@ -37,7 +41,7 @@ We can even [configure git to open a text editor of our choice](https://docs.git
 
 `git commit`
 
-### Good Commit Messages are Crucial!
+## Good Commit Messages are Crucial!
 
 Quality commit messages contribute to:
 
@@ -47,14 +51,14 @@ Quality commit messages contribute to:
 - **Change Management:** - "Change Logs" based on commits are often shipped with
 each release.
 
-## Bad Commit Messages:
+### Bad Commit Messages:
 
 - `fixing stuff`
 - `Final version.`
 - `asdf`
 - `🔥😭😭🙏🙏😂`
 
-## Good Commit Messages:
+### Good Commit Messages:
 
 - `Enhance user experience by validating signup form fields.`
 - `Improve code readability by refactoring PlayerRegistrationService.`

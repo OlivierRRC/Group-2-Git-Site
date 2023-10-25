@@ -5,12 +5,23 @@ layout: default
 nav_order: 2
 ---
 
+Having a folder tracked in git is called a `repo`sitory, let's learn how to make one.
+
+## Table of Contents
+{: .no_toc}
+
+1. TOC
+{:toc}
+
 # Initializing a **Repo**sitory
 
 Let's start by making a folder to play in:
 
-`mkdir my-first-git`
-`cd my-first-git`
+```
+mkdir my-first-git
+
+cd my-first-git
+```
 
 To bring a new project **under control** we must first initialize the repository (the repo) from within the project's root folder:
 

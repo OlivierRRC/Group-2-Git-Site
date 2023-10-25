@@ -7,4 +7,4 @@ nav_order: 3
 
 # Git Fundamentals
 
-placeholder text for this page.
+The following pages will take you through the process of getting started with your first git repo.
