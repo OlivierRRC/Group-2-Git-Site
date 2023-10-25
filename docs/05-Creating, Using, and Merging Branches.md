@@ -11,6 +11,8 @@ In Git, branches are like alternate timelines in a sci-fi movie.
 They allow you to work on different features or fixes without affecting the main project
 timeline until you choose to merge the timelines back together.
 
+![Introducing Branches](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/branches.svg)
+
 # Creating Branches
 
 ## Creating a new branch

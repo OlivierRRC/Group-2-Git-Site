@@ -12,7 +12,7 @@ All feature development or bug fixes are done in dedicated branches.
 - Makes it easy to discard experimental changes.
 - Facilitates code review via pull requests.
 
-***Note:*** *This workflow is sometimes called Github Flow.*
+🎵***Note:*** *This workflow is sometimes called Github Flow.*
 
 Works like the Centralized Workflow, except:
 - **Branching:** New features or fixes are developed locally in a short-lived branch.
@@ -24,4 +24,4 @@ service (example: GitHub).
 - **Reviewing:** One or more team members review the pull request before merging it
 into the main remote branch.
 
-***Note:*** *Pull requests can be sent back unmerged if rework is deemed necessary.*
+🎵***Note:*** *Pull requests can be sent back unmerged if rework is deemed necessary.*
