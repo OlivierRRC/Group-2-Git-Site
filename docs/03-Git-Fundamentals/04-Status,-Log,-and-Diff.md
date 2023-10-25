@@ -5,6 +5,26 @@ layout: default
 nav_order: 4
 ---
 
+It can be useful to know whats going on in your git repo, here's a few helpful commands to figure that out.
+
+## Table of Contents
+{: .no_toc}
+
+1. TOC
+{:toc}
+
+# Checking Tracked Files with Status
+
+You can see the status of files as compared to what's already been commited using:
+
+`git status`
+
+This will tell you if you:
+
+ - If you have new files
+ - If you have changed files
+ - If your changes are staged or not
+
 # Git Commits and the Git Log
 
 Commits can be reviewed by using:
@@ -18,7 +38,7 @@ Each entry in the log shows:
 - When it was made.
 - The commit message.
 
-# Two Git Log Examples Entries
+## Two Git Log Examples Entries
 
 ![](https://stungeye.github.io/Software-Development-And-Documentation-1/01-version-control-tools/commit.png)
 

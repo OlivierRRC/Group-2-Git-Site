@@ -5,16 +5,20 @@ layout: default
 nav_order: 1
 ---
 
-# Configuring Git
+In order to use git, you first have to have git.
 
-## Start bu Installing the Windows Terminal and Git
+## Table of Contents
+{: .no_toc}
+
+1. TOC
+{:toc}
+
+# Start bu Installing the Windows Terminal and Git
 
 - [Install the Windows Termnial](https://aka.ms/terminal/)
 - [Install git and Git GUI for Windows](https://gitforwindows.org/)
 
-put git install instructions here
-
-### Test Git Install
+## Test Git Install
 
 Open the Windows Terminal.
 Try running: 
@@ -25,7 +29,7 @@ you should see an output that looks something like this:
 
 `git version 2.42.0.windows.2`
 
-## Configuring Git
+### Configuring Git
 
 Next, let's tell Git who you are. Git needs to know your name and email.
 

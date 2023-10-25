@@ -5,6 +5,14 @@ layout: default
 nav_order: 2
 ---
 
+Having a folder tracked in git is called a `repo`sitory, let's learn how to make one.
+
+## Table of Contents
+{: .no_toc}
+
+1. TOC
+{:toc}
+
 # Initializing a **Repo**sitory
 
 Let's start by making a folder to play in:
