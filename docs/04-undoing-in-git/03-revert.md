@@ -5,6 +5,12 @@ parent: Undoing in Git
 nav_order: 3
 ---
 
+## Table of Contents
+{: .no_toc}
+
+1. TOC
+{:toc}
+
 # When to Use Revert?
 
 Use `git revert` to run a specific commit **in reverse.**

@@ -5,6 +5,12 @@ parent: Undoing in Git
 nav_order: 1
 ---
 
+## Table of Contents
+{: .no_toc}
+
+1. TOC
+{:toc}
+
 # When to Undo with Checkout?
 
 The simplest private undo. **Discard uncommitted local changes.**

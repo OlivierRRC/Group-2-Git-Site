@@ -5,6 +5,12 @@ parent: Undoing in Git
 nav_order: 2
 ---
 
+## Table of Contents
+{: .no_toc}
+
+1. TOC
+{:toc}
+
 # When to Undo with Reset?
 
 Use `git reset` to undo one or more commits in our local repository.
