@@ -5,7 +5,7 @@ has_children: true
 nav_order: 4
 ---
 
-# Introduction to Javascript
+# Undoing in Git
 
 This module is an introduction to the 3 most commonly used ways to undo in Git:
 - Checkout (Slightly Dangerous)
