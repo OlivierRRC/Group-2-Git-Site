@@ -116,5 +116,6 @@ As a chronically addicted gamer since his previous life, I've aspired to become 
 
 ## Quentin
 ![QuentinPhoto](https://media.discordapp.net/attachments/1037823381325762660/1103778711368638514/IMG_8293.jpg?ex=654d3f88&is=653aca88&hm=ed0ffb39f8ba2d7720b835290fa02f02bd26a2a0917b8a8324913eed97eb3643&=&width=376&height=670)
+
 Quentin Palmisani is a student at Red River College who is studying to become a better programmer and maybe make his own studio one day if all goes well.
 
