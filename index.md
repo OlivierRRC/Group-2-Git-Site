@@ -99,7 +99,9 @@ Image Source:: [https://ericsink.com/entries/dvcs_dag_1.html](https://ericsink.c
 This is a short paragraph biography of Steven.  
 
 ## Olivier
+![OlivierPhoto](https://avatars.githubusercontent.com/u/145160498?s=400&u=ab628c8c8fb3c5c4a053e1a555161f25975a0f85&v=4)
 
+Olivier Proulx is a French-Canadian Game Development Student. He has been working in the Unity game engine for the last 5 years and is looking forward to honing his skills and turning his hobby into a career.
 
 ## Russel
 
