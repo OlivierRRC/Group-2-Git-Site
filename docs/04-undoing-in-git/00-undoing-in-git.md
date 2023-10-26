@@ -7,6 +7,8 @@ nav_order: 4
 
 # Undoing in Git
 
+There will be times where you may want to undo your changes. But what if those changes were already committed? Pushed? What if the collaborators in your team had also pulled those changes?
+
 This module is an introduction to the 3 most commonly used ways to undo in Git:
 - Checkout (Slightly Dangerous)
 - Reset (Destructive)
