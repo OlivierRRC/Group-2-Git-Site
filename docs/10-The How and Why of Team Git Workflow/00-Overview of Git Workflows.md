@@ -15,3 +15,7 @@ There are several popular workflows used by teams:
 - Centralized Workflow
 - Feature Branch Workflow
 - Forking Workflow
+
+[Reference for Git workflow]
+
+[Reference for Git workflow]: https://www.atlassian.com/git/tutorials/comparing-workflows
