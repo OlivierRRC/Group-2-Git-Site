@@ -5,6 +5,9 @@ layout: default
 nav_order: 2
 ---
 
+# Initializing a Repo
+{: .no_toc}
+
 Having a folder tracked in git is called a `repo`sitory, let's learn how to make one.
 
 ## Table of Contents

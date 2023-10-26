@@ -5,6 +5,9 @@ layout: default
 nav_order: 1
 ---
 
+# Configuring Git
+{: .no_toc}
+
 In order to use git, you first have to have git.
 
 ## Table of Contents

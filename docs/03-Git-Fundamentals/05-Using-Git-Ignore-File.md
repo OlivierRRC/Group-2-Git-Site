@@ -5,6 +5,9 @@ layout: default
 nav_order: 5
 ---
 
+# Using Git Ignore File
+{: .no_toc}
+
 Sometimes you may not want certain files in a repo, luckily git has a feature for that
 
 ## Table of Contents

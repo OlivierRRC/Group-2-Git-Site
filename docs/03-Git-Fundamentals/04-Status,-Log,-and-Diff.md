@@ -5,6 +5,9 @@ layout: default
 nav_order: 4
 ---
 
+# Status, Log, and Diff
+{: .no_toc}
+
 It can be useful to know whats going on in your git repo, here's a few helpful commands to figure that out.
 
 ## Table of Contents

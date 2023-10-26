@@ -5,6 +5,9 @@ layout: default
 nav_order: 3
 ---
 
+# Staging and Commit Files
+{: .no_toc}
+
 As we make changes to our code we **commit** the changes to our git repo.
 
 Before we can **commit** we must **add** new or changed files to a staging area.
