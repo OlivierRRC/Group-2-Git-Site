@@ -12,13 +12,19 @@ nav_order: 11
 4. GitHub was founded in April, 2008.
 5. Git was created in April 7th, 2005.
 
-Sources: 
+Source 1: 
 [What is Git?]
+
+Source 2: 
 [History of Github]
+
+Source 3: 
 [History of Git]
+
+Source 4: 
 [Olivier with penguin facts]
 
-[What is Git]: https://www.atlassian.com/git/tutorials/what-is-git
+[What is Git?]: https://www.atlassian.com/git/tutorials/what-is-git
 [History of Github]: https://en.wikipedia.org/wiki/GitHub
 [History of Git]: https://www.techtarget.com/searchitoperations/definition/Git#:~:text=The%20name%20%22git%22%20was%20given,by%20any%20common%20UNIX%20command.
 [Olivier with penguin facts]: https://OlivierRRC.github.io/Group-2-Git-Site
