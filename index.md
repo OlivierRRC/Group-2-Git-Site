@@ -104,7 +104,7 @@ This is a short paragraph biography of Steven.
 Olivier Proulx is a French-Canadian Game Development Student. He has been working in the Unity game engine for the last 5 years and is looking forward to honing his skills and turning his hobby into a career.
 
 ## Russell
-
+![RussellPhoto](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/301002040_3263069977312053_3996275217364619666_n.jpg?stp=dst-jpg_p200x200&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=5f2048&amp;_nc_ohc=hjD4uGGu2ZEAX__1xjp&amp;_nc_ht=scontent-ord5-1.xx&amp;oh=00_AfDmoRGvYcsQ97WFFo_pfE_yU_zyAeoq49LXL0Pbyk_04Q&amp;oe=653EEE81)
 
 ## Lorenzo
 
